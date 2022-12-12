@@ -1,0 +1,13 @@
+buttons:
+  East: x
+  South: Space
+  West: m
+  North: e 
+  LeftTrigger2: s
+  RightTrigger2: w
+  DPadLeft: MouseLeft
+  DPadDown: MouseRight
+axis:
+  LeftStickX: [a,d]
+  RightStickX: [MouseX, MouseX]
+  RightStickY: [MouseY, MouseY]
